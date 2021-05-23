@@ -1,1 +1,1 @@
-//initial angualar apps
+//initial angular apps
